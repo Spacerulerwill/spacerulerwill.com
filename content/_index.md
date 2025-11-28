@@ -1,12 +1,12 @@
 +++
 template = "base-markdown.html"
-+++
++++https://www.jic.ac.uk/
 
 <h2>About Me</h2>
 <p>
     Hello! I'm <strong>William Redding</strong>, a passionate programmer and an all-around computer enthusiast. 
-    Currently, I work at <a href="https://www.nbi.ac.uk/facilities/" target="_blank" rel="noopener noreferrer">NBI Partnership Ltd</a> as a 
-    <strong>Support Specialist / Linux System Administrator</strong>.
+    Currently, I work at the <a href="https://www.jic.ac.uk/" target="_blank" rel="noopener noreferrer">John Innes Center</a> as a 
+    <strong>Research Software Engineer</strong>.
 </p>
 
 <p>
