@@ -28,11 +28,10 @@ template = "base-markdown.html"
 </p>
 
 <h2>Blog</h2>
-I have set up this site to host blog posts, and I do eventually plan to write some. For now, however, it will remain empty.
+<p>Check out my latest writing and technical posts on my <a href="/blog/">blog</a>.</p>
 
 <h2>Contact Me</h2>
 <p>If you’d like to get in touch, feel free to reach out!</p>
 <ul>
     <li>Email: <strong>williamdredding@proton.me</strong></li>
-    <li>Discord: <a href="https://discord.com/channels/1166422131400261635" target="_blank" rel="noopener noreferrer">Spacerulerwill</a></li>
 </ul>

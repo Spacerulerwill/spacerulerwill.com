@@ -1,8 +1,5 @@
 +++
-title = "Blog Posts" 
-template = "blog.html" 
-page_template = "blog-page.html" 
+template = "blog.html"
+sort_by = "date"
 +++
 
-
-Welcome to my blog! Here are my latest posts:

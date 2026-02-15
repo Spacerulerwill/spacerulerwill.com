@@ -3,7 +3,21 @@
 <head>
   <meta charset="utf-8">
   <title>Spacerulerwill</title>
-  <link rel="stylesheet" href="{{ get_url(path='base.css') | safe }}">
+  <style>
+    main {
+        max-width: 750px;
+        margin: 0 auto;
+    }
+
+    a {
+        color: black;
+    }
+
+    header, footer {
+        text-align: center;
+        font-family: monospace;
+    }
+  </style>
 </head>
 <body>
     <!-- Header -->
@@ -23,7 +37,7 @@
     <!-- Footer -->
     <footer>
         <br>
-        <p>&copy; 2025 Spacerulerwill. All rights reserved.</p>
+        <p>&copy; {{ now() | date(format="%Y") }} Spacerulerwill. All rights reserved.</p>
     </footer>
 </body>
 </html>
